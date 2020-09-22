@@ -1,0 +1,16 @@
+{
+
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "",
+      "versionNumber": "0.1.NEXT",
+      "definitionFile": "config/project-scratch-def.json"
+    }
+  ],
+
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "49.0"
+}
